@@ -1,5 +1,5 @@
-# EvoApp
-Implementation of (Repository) Design Pattern by using latest technology :<br/>
+# EvolutionApp
+Implementation of (Repository) Design Pattern by using latest technologies :<br/>
 Back End Technologies :<br/>
 1- .Net Core 2.1<br/>
 2- .Net Standared 2.0<br/>
