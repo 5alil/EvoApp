@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\NETCORE\\SendMail\\EvoApp\\EvoApp.Domain\\EvoApp.Domain.csproj",
+      "projectUniqueName": "D:\\GitHub-Repositories\\EvoApp\\EvoApp\\EvoApp.Domain\\EvoApp.Domain.csproj",
       "projectName": "EvoApp.Domain",
-      "projectPath": "D:\\NETCORE\\SendMail\\EvoApp\\EvoApp.Domain\\EvoApp.Domain.csproj",
+      "projectPath": "D:\\GitHub-Repositories\\EvoApp\\EvoApp\\EvoApp.Domain\\EvoApp.Domain.csproj",
       "packagesPath": "C:\\Users\\admin.MAKHZNA\\.nuget\\packages\\",
-      "outputPath": "D:\\NETCORE\\SendMail\\EvoApp\\EvoApp.Domain\\obj\\",
+      "outputPath": "D:\\GitHub-Repositories\\EvoApp\\EvoApp\\EvoApp.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

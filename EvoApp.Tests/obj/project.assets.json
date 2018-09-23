@@ -10836,11 +10836,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\NETCORE\\SendMail\\EvoApp\\EvoApp.Tests\\EvoApp.Tests.csproj",
+      "projectUniqueName": "D:\\GitHub-Repositories\\EvoApp\\EvoApp\\EvoApp.Tests\\EvoApp.Tests.csproj",
       "projectName": "EvoApp.Tests",
-      "projectPath": "D:\\NETCORE\\SendMail\\EvoApp\\EvoApp.Tests\\EvoApp.Tests.csproj",
+      "projectPath": "D:\\GitHub-Repositories\\EvoApp\\EvoApp\\EvoApp.Tests\\EvoApp.Tests.csproj",
       "packagesPath": "C:\\Users\\admin.MAKHZNA\\.nuget\\packages\\",
-      "outputPath": "D:\\NETCORE\\SendMail\\EvoApp\\EvoApp.Tests\\obj\\",
+      "outputPath": "D:\\GitHub-Repositories\\EvoApp\\EvoApp\\EvoApp.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -10859,8 +10859,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\NETCORE\\SendMail\\EvoApp\\EvoApp.UI\\EvoApp.UI.csproj": {
-              "projectPath": "D:\\NETCORE\\SendMail\\EvoApp\\EvoApp.UI\\EvoApp.UI.csproj"
+            "D:\\GitHub-Repositories\\EvoApp\\EvoApp\\EvoApp.UI\\EvoApp.UI.csproj": {
+              "projectPath": "D:\\GitHub-Repositories\\EvoApp\\EvoApp\\EvoApp.UI\\EvoApp.UI.csproj"
             }
           }
         }

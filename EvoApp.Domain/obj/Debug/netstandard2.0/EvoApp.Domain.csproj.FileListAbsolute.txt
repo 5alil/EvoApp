@@ -16,3 +16,12 @@ D:\NETCORE\SendMail\EvoApp\EvoApp.Domain\obj\Debug\netstandard2.0\EvoApp.Domain.
 D:\NETCORE\SendMail\EvoApp\EvoApp.Domain\obj\Debug\netstandard2.0\EvoApp.Domain.AssemblyInfo.cs
 D:\NETCORE\SendMail\EvoApp\EvoApp.Domain\obj\Debug\netstandard2.0\EvoApp.Domain.dll
 D:\NETCORE\SendMail\EvoApp\EvoApp.Domain\obj\Debug\netstandard2.0\EvoApp.Domain.pdb
+D:\GitHub-Repositories\EvoApp\EvoApp\EvoApp.Domain\bin\Debug\netstandard2.0\EvoApp.Domain.deps.json
+D:\GitHub-Repositories\EvoApp\EvoApp\EvoApp.Domain\bin\Debug\netstandard2.0\EvoApp.Domain.dll
+D:\GitHub-Repositories\EvoApp\EvoApp\EvoApp.Domain\bin\Debug\netstandard2.0\EvoApp.Domain.pdb
+D:\GitHub-Repositories\EvoApp\EvoApp\EvoApp.Domain\obj\Debug\netstandard2.0\EvoApp.Domain.csprojAssemblyReference.cache
+D:\GitHub-Repositories\EvoApp\EvoApp\EvoApp.Domain\obj\Debug\netstandard2.0\EvoApp.Domain.csproj.CoreCompileInputs.cache
+D:\GitHub-Repositories\EvoApp\EvoApp\EvoApp.Domain\obj\Debug\netstandard2.0\EvoApp.Domain.AssemblyInfoInputs.cache
+D:\GitHub-Repositories\EvoApp\EvoApp\EvoApp.Domain\obj\Debug\netstandard2.0\EvoApp.Domain.AssemblyInfo.cs
+D:\GitHub-Repositories\EvoApp\EvoApp\EvoApp.Domain\obj\Debug\netstandard2.0\EvoApp.Domain.dll
+D:\GitHub-Repositories\EvoApp\EvoApp\EvoApp.Domain\obj\Debug\netstandard2.0\EvoApp.Domain.pdb
